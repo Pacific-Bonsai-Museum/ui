@@ -1,4 +1,4 @@
-To build a war file for deployment, run:
+Configuration for the PBM. To build a war file for deployment, run:
 
     mvn clean install
 
